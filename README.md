@@ -1,4 +1,4 @@
-# Hi, I'm Servando 👋
+# Alou™ Estudios | Servando Balderas 👋
 
 **Junior Front-end Developer · Freelance Web Developer · Founder of Alou™ Estudios**
 
@@ -16,7 +16,7 @@ I'm building **Alou™ Estudios**, an independent brand focused on web developme
 - Contact forms, WhatsApp links, and practical integrations
 - Website improvements and ongoing maintenance
 
-**Where I'm expanding:** I'm studying **e-commerce websites and Shopify** to add online-store projects to Alou™ Estudios in the future. I'm focusing on product catalogs, collections, shopping carts, checkout flows, storefront customization, payments, shipping, and the operational needs behind an online store.
+**Where I'm expanding:** I'm exploring **Shopify, WooCommerce (WordPress) and custom-built e-commerce websites** as potential future services for Alou™ Estudios. **This week I'm researching, studying and practicing these approaches**, including product catalogs, collections, carts, checkout, payments, shipping, storefront customization and store administration. These are learning goals, not completed client services.
 
 **Brand website:** The official **Alou™ Estudios** website is currently **under development**.
 
@@ -35,13 +35,13 @@ I'm building **Alou™ Estudios**, an independent brand focused on web developme
 - **Version control & workflow:** Git, GitHub, basic testing, documentation
 - **Deployment & SEO:** Cloudflare, domains, metadata, sitemaps, Google Search Console
 - **Visual website tools:** Framer, Wix
-- **Currently learning:** Shopify, online-store setup, theme customization, **Liquid** and e-commerce fundamentals
+- **Learning & practicing (e-commerce):** Shopify, WooCommerce / WordPress, Liquid, store setup, theme customization and custom e-commerce storefront development
 
 ## 📚 My current goals
 
 - Improve my JavaScript and front-end development skills
 - Build maintainable and accessible websites and applications
-- Learn Shopify storefront development and create a public e-commerce demo
+- Study and practice Shopify, WooCommerce and custom e-commerce development; build a public demonstration store before offering these services commercially
 - Grow **Alou™ Estudios** into a broader web development and digital solutions brand
 - Collaborate with businesses and development teams
 
@@ -65,7 +65,7 @@ Con **Alou™ Estudios** quiero ayudar a negocios y emprendedores a construir y 
 - Formularios de contacto, enlaces a WhatsApp e integraciones
 - Mejoras y mantenimiento de sitios web
 
-**Nueva área de aprendizaje:** estoy incorporando el **comercio electrónico y Shopify** a mi formación para desarrollar tiendas en línea en el futuro. Actualmente me interesa aprender a gestionar catálogos, colecciones, variantes de productos, carritos, procesos de compra, métodos de pago, envíos y personalización de tiendas con **Liquid**.
+**Nueva área de aprendizaje:** esta semana estaré investigando, estudiando y practicando **Shopify, WooCommerce (WordPress) y el desarrollo personalizado de tiendas en línea**. Quiero comprender catálogos, colecciones, variantes, carritos, procesos de compra, pagos, envíos, gestión de productos y personalización de tiendas; en Shopify también exploraré **Liquid**. Estas áreas forman parte de mi formación, todavía no son servicios respaldados por proyectos comerciales terminados.
 
 **Estado de la marca:** la página oficial de **Alou™ Estudios está en desarrollo**. El comercio electrónico forma parte de mi expansión profesional; todavía no lo presento como una especialidad con proyectos de clientes terminados.
 
@@ -84,13 +84,13 @@ Con **Alou™ Estudios** quiero ayudar a negocios y emprendedores a construir y 
 - **Control de versiones:** Git y GitHub
 - **Publicación y SEO:** Cloudflare, dominios, metadatos, sitemaps y Google Search Console
 - **Herramientas visuales:** Framer y Wix
-- **En aprendizaje:** Shopify, creación de tiendas online, personalización de temas, Liquid y fundamentos de e-commerce
+- **En aprendizaje y práctica (e-commerce):** Shopify, WooCommerce / WordPress, Liquid, configuración de tiendas, personalización de temas y desarrollo de escaparates de comercio electrónico a medida
 
 ### 📚 Mis objetivos
 
 - Seguir desarrollando mis conocimientos de programación y JavaScript.
 - Construir sitios y aplicaciones accesibles, funcionales y fáciles de mantener.
-- Aprender a diseñar y desarrollar tiendas online con Shopify y crear una tienda demostrativa pública.
+- Estudiar y practicar Shopify, WooCommerce y desarrollo de comercio electrónico personalizado; crear una tienda de demostración pública antes de ofrecer esos servicios comercialmente.
 - Consolidar **Alou™ Estudios** y ampliar sus servicios de forma responsable.
 - Colaborar con negocios y equipos de desarrollo.
 
