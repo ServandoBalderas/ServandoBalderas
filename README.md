@@ -40,6 +40,13 @@ A service website for an air-conditioning technician in Monterrey. It helps visi
 
 [Live website](https://hvacsanchez.com/) · [Read the detailed HVAC Sánchez case study](case-studies/hvac-sanchez.md)
 
+#### 03 — ALOU GOODS · E-commerce frontend demo
+**HTML · CSS · JavaScript · SVG · localStorage**
+
+A public educational storefront with fictional products, category filters, search, product details, a persistent cart and a simulated checkout. No real payments or personal data are collected. **This is a frontend learning demo, not a Shopify or WooCommerce client project.**
+
+[Browse the source, screenshots and documentation](https://github.com/ServandoBalderas/alou-ecommerce-demo)
+
 > These are published projects. Some client code is kept private to respect project ownership and access arrangements. The case studies describe documented work; they do not claim unverified traffic, sales or conversion results.
 
 ### 🛠️ Technologies & workflow
@@ -54,7 +61,7 @@ A service website for an air-conditioning technician in Monterrey. It helps visi
 
 - Improving my JavaScript, UI engineering and accessibility skills
 - Building maintainable websites and useful web applications
-- Studying online stores and creating a public e-commerce demo as a **future** portfolio project
+- Studying online stores and iterating on my published **ALOU GOODS** frontend demo
 - Growing Alou™ Estudios and collaborating with businesses and development teams
 
 ---
@@ -93,6 +100,13 @@ Sitio para un técnico de aire acondicionado que orienta a los visitantes entre 
 
 [Ver el sitio](https://hvacsanchez.com/) · [Leer caso de estudio de HVAC Sánchez](case-studies/hvac-sanchez.md)
 
+#### 03 — ALOU GOODS · Demo frontend de comercio electrónico
+**HTML · CSS · JavaScript · SVG · localStorage**
+
+Proyecto público de aprendizaje con productos ficticios, filtros por categoría, búsqueda, detalles de producto, carrito persistente y un checkout simulado. No procesa pagos reales ni recopila datos personales. **No es un trabajo comercial con Shopify o WooCommerce.**
+
+[Ver código, capturas y documentación](https://github.com/ServandoBalderas/alou-ecommerce-demo)
+
 > Los casos de estudio documentan el alcance real de cada proyecto. Algunos repositorios de clientes permanecen privados y no se atribuyen resultados comerciales sin métricas verificadas.
 
 ### 🛠️ Tecnologías y herramientas
@@ -107,7 +121,7 @@ Sitio para un técnico de aire acondicionado que orienta a los visitantes entre 
 
 - Aprender y practicar programación y desarrollo frontend de forma continua.
 - Construir sitios y aplicaciones accesibles, funcionales y fáciles de mantener.
-- Preparar una **tienda de demostración pública** cuando complete mis primeras prácticas de comercio electrónico.
+- Seguir mejorando la demo pública **ALOU GOODS** y estudiar el desarrollo de tiendas con Shopify y WooCommerce.
 - Consolidar **Alou™ Estudios** y colaborar en proyectos tecnológicos de mayor alcance.
 
 ---
