@@ -1,97 +1,115 @@
 # Alou™ Estudios | Servando Balderas 👋
 
-**Junior Front-end Developer · Freelance Web Developer · Founder of Alou™ Estudios**
+**Junior Front-end Developer · Freelance Web Developer · Building Alou™ Estudios**
 
-I'm a web developer based in Mexico, building responsive websites and digital experiences for businesses. I enjoy turning ideas into useful interfaces and strengthening my development skills through real projects.
+I'm a Mexico-based junior web developer focused on responsive websites, practical interfaces and digital experiences for businesses. I'm growing **Alou™ Estudios**, an independent web development and digital solutions brand, while learning through real projects.
 
-## 🚀 Alou™ Estudios — My independent brand
-
-I'm building **Alou™ Estudios**, an independent brand focused on web development and digital solutions for businesses. My goal is to create thoughtful, functional websites that are easy to use and maintain.
-
-**Current areas of work**
-
-- Business websites, portfolios, and landing pages
-- Responsive layouts and interactive web interfaces
-- Domain, hosting, deployment, and technical SEO setup
-- Contact forms, WhatsApp links, and practical integrations
-- Website improvements and ongoing maintenance
-
-**Where I'm expanding:** I'm exploring **Shopify, WooCommerce (WordPress) and custom-built e-commerce websites** as potential future services for Alou™ Estudios. **This week I'm researching, studying and practicing these approaches**, including product catalogs, collections, carts, checkout, payments, shipping, storefront customization and store administration. These are learning goals, not completed client services.
-
-**Brand website:** The official **Alou™ Estudios** website is currently **under development**.
-
-## 💼 Selected projects
-
-| Project | Overview | Live website |
-| --- | --- | --- |
-| **ACM — Aluminio, Cristales y Maquilas** | Business website with services, project showcases, and contact options. | [acmav.mx](https://acmav.mx/) |
-| **HVAC Sanchez** | Responsive services website with forms, WhatsApp integration, deployment, and technical SEO setup. | [hvacsanchez.com](https://hvacsanchez.com/) |
-
-> These are published projects. Some client repositories are private to respect project ownership. An e-commerce demonstration project is part of my learning roadmap, not a completed client project.
-
-## 🛠️ Technologies & tools
-
-- **Front-end:** HTML5, CSS3, JavaScript, responsive design
-- **Version control & workflow:** Git, GitHub, basic testing, documentation
-- **Deployment & SEO:** Cloudflare, domains, metadata, sitemaps, Google Search Console
-- **Visual website tools:** Framer, Wix
-- **Learning & practicing (e-commerce):** Shopify, WooCommerce / WordPress, Liquid, store setup, theme customization and custom e-commerce storefront development
-
-## 📚 My current goals
-
-- Improve my JavaScript and front-end development skills
-- Build maintainable and accessible websites and applications
-- Study and practice Shopify, WooCommerce and custom e-commerce development; build a public demonstration store before offering these services commercially
-- Grow **Alou™ Estudios** into a broader web development and digital solutions brand
-- Collaborate with businesses and development teams
+**Languages:** [English](#english) · [Español](#español)
 
 ---
 
-## 🇲🇽 En español
+## English
+
+### 🚀 About Alou™ Estudios
+
+**Alou™ Estudios** is the independent brand I'm building around web design, front-end development and practical digital solutions.
+
+My work to date includes corporate and service websites, responsive layouts, contact flows, domain/deployment setup and basic technical SEO. I'm also exploring **Shopify, WooCommerce and custom e-commerce development** as future directions; these are learning and practice areas, not completed commercial specializations.
+
+**The official Alou™ Estudios website is currently under development.**
+
+### 💼 Selected projects & case studies
+
+#### 01 — ACM · Corporate website
+**Framer · Responsive design · Content architecture · Website publication**
+
+A web presence for an aluminum, glass and architectural-finishing company in Monterrey. I organized the service offering and authentic project photographs into an accessible portfolio, with galleries, selected/ongoing projects and direct WhatsApp and email contact paths.
+
+**My contribution:** information architecture, visual direction, page structure, content organization, galleries, responsive refinement and launch support.
+
+[Live website](https://acmav.mx/) · [Read the detailed ACM case study](case-studies/acm.md)
+
+#### 02 — HVAC Sánchez · Service website & inquiries
+**HTML · CSS · JavaScript · GitHub · Cloudflare**
+
+A service website for an air-conditioning technician in Monterrey. It helps visitors choose a service or describe a problem, then prepare a quote request or on-site visit inquiry through separate, conditional form flows.
+
+**My contribution:** interface design and implementation, service architecture, JavaScript interactions, responsive behavior, conditional forms, GitHub organization and deployment configuration.
+
+**Note:** appointment preferences are requests, not automatically confirmed bookings.
+
+[Live website](https://hvacsanchez.com/) · [Read the detailed HVAC Sánchez case study](case-studies/hvac-sanchez.md)
+
+> These are published projects. Some client code is kept private to respect project ownership and access arrangements. The case studies describe documented work; they do not claim unverified traffic, sales or conversion results.
+
+### 🛠️ Technologies & workflow
+
+- **Front-end:** HTML5, CSS3, JavaScript, responsive design
+- **Development workflow:** Git, GitHub, documentation and basic testing
+- **Hosting, deployment & SEO:** Cloudflare, domain configuration, metadata, sitemaps and Google Search Console
+- **Visual tools:** Framer, Wix
+- **Currently studying & practicing:** Shopify, WooCommerce / WordPress, Liquid, theme customization and e-commerce storefront development
+
+### 📚 What I'm working toward
+
+- Improving my JavaScript, UI engineering and accessibility skills
+- Building maintainable websites and useful web applications
+- Studying online stores and creating a public e-commerce demo as a **future** portfolio project
+- Growing Alou™ Estudios and collaborating with businesses and development teams
+
+---
+
+## Español
 
 ¡Hola! Soy **Servando Balderas**, desarrollador web junior y fundador de **Alou™ Estudios**, una marca independiente que estoy construyendo para ofrecer desarrollo web y soluciones digitales.
 
-Me interesa convertir las necesidades de los negocios en sitios funcionales, claros y adaptables. Continúo aprendiendo programación y mejorando mis habilidades mediante proyectos reales.
+Me interesa transformar las necesidades de un negocio en interfaces claras, funcionales y adaptables. Sigo fortaleciendo mis habilidades mediante la práctica y proyectos reales.
 
-### 🚀 Alou™ Estudios
+### 🚀 Sobre Alou™ Estudios
 
-Con **Alou™ Estudios** quiero ayudar a negocios y emprendedores a construir y mejorar su presencia digital.
+Mi trabajo actual incluye sitios empresariales y de servicios, diseño responsive, formularios, vías de contacto, configuración de dominios, publicación y SEO técnico básico.
 
-**Áreas en las que ya he trabajado:**
+**La página oficial de Alou™ Estudios sigue en desarrollo.** También estoy estudiando y practicando **Shopify, WooCommerce y tiendas de comercio electrónico personalizadas** para ampliar los servicios de la marca en el futuro. No presento estas áreas como experiencia comercial ya consolidada.
 
-- Páginas empresariales, landing pages y portafolios
-- Diseño responsive e interfaces interactivas
-- Dominios, hosting, despliegues y SEO técnico básico
-- Formularios de contacto, enlaces a WhatsApp e integraciones
-- Mejoras y mantenimiento de sitios web
+### 💼 Proyectos destacados y casos de estudio
 
-**Nueva área de aprendizaje:** esta semana estaré investigando, estudiando y practicando **Shopify, WooCommerce (WordPress) y el desarrollo personalizado de tiendas en línea**. Quiero comprender catálogos, colecciones, variantes, carritos, procesos de compra, pagos, envíos, gestión de productos y personalización de tiendas; en Shopify también exploraré **Liquid**. Estas áreas forman parte de mi formación, todavía no son servicios respaldados por proyectos comerciales terminados.
+#### 01 — ACM · Sitio corporativo
+**Framer · Diseño responsive · Arquitectura de información · Publicación**
 
-**Estado de la marca:** la página oficial de **Alou™ Estudios está en desarrollo**. El comercio electrónico forma parte de mi expansión profesional; todavía no lo presento como una especialidad con proyectos de clientes terminados.
+Sitio para una empresa de aluminio, vidrio y acabados de Monterrey. Organicé la información de servicios y fotografías auténticas de obras en un portafolio consultable, con galerías, proyectos destacados y en ejecución, además de enlaces de WhatsApp y correo.
 
-### 💼 Proyectos destacados
+**Mi participación:** estructura de secciones, diseño visual, organización de contenido, galerías, ajustes responsive, navegación y apoyo de publicación.
 
-| Proyecto | Descripción | Sitio web |
-| --- | --- | --- |
-| **ACM — Aluminio, Cristales y Maquilas** | Sitio empresarial con servicios, portafolio de proyectos y opciones de contacto. | [acmav.mx](https://acmav.mx/) |
-| **HVAC Sánchez** | Sitio adaptable de servicios con formularios, WhatsApp, publicación y SEO técnico. | [hvacsanchez.com](https://hvacsanchez.com/) |
+[Ver el sitio](https://acmav.mx/) · [Leer caso de estudio de ACM](case-studies/acm.md)
 
-> Algunos repositorios de clientes son privados. Sus sitios públicos son ejemplos de mi trabajo.
+#### 02 — HVAC Sánchez · Sitio de servicios y solicitudes
+**HTML · CSS · JavaScript · GitHub · Cloudflare**
+
+Sitio para un técnico de aire acondicionado que orienta a los visitantes entre mantenimiento, instalación y visita técnica. Integra formularios con campos condicionales que distinguen cotizaciones de solicitudes de cita.
+
+**Mi participación:** diseño y desarrollo de interfaz, interacciones JavaScript, formularios, adaptación móvil, organización de código y configuración para publicación.
+
+**Importante:** las citas requieren confirmación del técnico; el sitio no realiza reservas automáticas.
+
+[Ver el sitio](https://hvacsanchez.com/) · [Leer caso de estudio de HVAC Sánchez](case-studies/hvac-sanchez.md)
+
+> Los casos de estudio documentan el alcance real de cada proyecto. Algunos repositorios de clientes permanecen privados y no se atribuyen resultados comerciales sin métricas verificadas.
 
 ### 🛠️ Tecnologías y herramientas
 
 - **Desarrollo frontend:** HTML5, CSS3, JavaScript y diseño responsive
-- **Control de versiones:** Git y GitHub
+- **Flujo de trabajo:** Git, GitHub, documentación y pruebas básicas
 - **Publicación y SEO:** Cloudflare, dominios, metadatos, sitemaps y Google Search Console
 - **Herramientas visuales:** Framer y Wix
-- **En aprendizaje y práctica (e-commerce):** Shopify, WooCommerce / WordPress, Liquid, configuración de tiendas, personalización de temas y desarrollo de escaparates de comercio electrónico a medida
+- **En formación:** Shopify, WooCommerce / WordPress, Liquid, personalización de temas y desarrollo de tiendas online
 
-### 📚 Mis objetivos
+### 📚 Objetivos
 
-- Seguir desarrollando mis conocimientos de programación y JavaScript.
+- Aprender y practicar programación y desarrollo frontend de forma continua.
 - Construir sitios y aplicaciones accesibles, funcionales y fáciles de mantener.
-- Estudiar y practicar Shopify, WooCommerce y desarrollo de comercio electrónico personalizado; crear una tienda de demostración pública antes de ofrecer esos servicios comercialmente.
-- Consolidar **Alou™ Estudios** y ampliar sus servicios de forma responsable.
-- Colaborar con negocios y equipos de desarrollo.
+- Preparar una **tienda de demostración pública** cuando complete mis primeras prácticas de comercio electrónico.
+- Consolidar **Alou™ Estudios** y colaborar en proyectos tecnológicos de mayor alcance.
 
-**Proyectos publicados:** [ACM](https://acmav.mx/) · [HVAC Sánchez](https://hvacsanchez.com/)
+---
+
+**Portfolio / Portafolio:** [ACM](https://acmav.mx/) · [HVAC Sánchez](https://hvacsanchez.com/)
